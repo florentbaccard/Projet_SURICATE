@@ -1,6 +1,8 @@
 # 🍵 GreenTeaVibes
 
 Bienvenue dans ma boutique en ligne de thé GreenTeaVibes !
+
+L'objectif de la création de ce site est d'instruire sur l'usage de JavaScript, ainsi que sur la réutilisation du CSS et de l'HTML, au sein d'une formation proposée par <a href = 'https://www.onlineformapro.com/' target = '_blank' >OnlineFormaPro.</a>
  
 Site marchand de thés réalisé en JavaScript, HTML, et CSS. Propose une sélection soigneusement choisie de thés de qualité, du monde entier. L'interface épurée facilite la navigation, et le processus de commande est simple et rapide. Engagé envers la durabilité avec des emballages écologique
 
