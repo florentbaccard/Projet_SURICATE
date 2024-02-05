@@ -18,6 +18,11 @@ Site marchand de thés réalisé en JavaScript, HTML, et CSS. Propose une sélec
 
 ### Comment Exécuter le Projet Localement :
 
-Clonez ce référentiel sur votre machine locale.
+Clonez ce référentiel sur votre machine locale. Utilisez la commande suivante dans votre terminal :
 
+```bash
+git clone https://github.com/votre-nom-utilisateur/GreenTeaVibes.git
+
+```
+##
 ![ScreenShoot](Asset.png)
