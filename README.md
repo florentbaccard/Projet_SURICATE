@@ -22,7 +22,6 @@ Clonez ce référentiel sur votre machine locale. Utilisez la commande suivante 
 
 ```bash
 git clone https://github.com/votre-nom-utilisateur/GreenTeaVibes.git
-cd GreenTeaVibes
 ```
 ## Captures d'écran
 
